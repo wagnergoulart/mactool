@@ -64,6 +64,9 @@ header h1 {
 #toggle-theme {
   grid-column: 3;
   justify-self: end;
+  background: none;
+  border: none;
+  font-size: 20px;
 }
 
 
